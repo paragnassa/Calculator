@@ -51,10 +51,8 @@ A simple Calculator application built with React.
 
 This is a simple calculator app built with react.
 
-![Product Name Screen Shot][product-screenshot]
 <br>
 <br>
-<!-- ![Product Name Screen Shot][product-screenshot2] -->
 
 <!-- ABOUT THE PROJECT -->
 
