@@ -17,10 +17,7 @@ A simple Calculator application built with React.
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -65,21 +62,6 @@ This is a simple calculator app built with react.
 <!-- ![Product Name Screen Shot][product-screenshot2] -->
 
 <!-- ABOUT THE PROJECT -->
-## Local Usage
-
-To use this app locally, this is what you need to:
-
-* [Download](https://github.com/PhillipUg/calculator-react/archive/master.zip) or clone this repo:
-  - Clone with SSH:
-  ```
-    git@github.com:PhillipUg/calculator-react.git
-  ```
-  - Clone with HTTPS
-  ```
-    https://github.com/PhillipUg/calculator-react.git
-  ```
-* `cd` into the downloaded folder and run `npm install`
-* then, run `npm start`.
 
 ### Built With
 This project was built using these technologies.
@@ -95,36 +77,17 @@ This project was built using these technologies.
 ## Live Version
 To try it live [click here](https://project-calculator-react.herokuapp.com/)
 
-<!-- CONTACT -->
 
-## Contact
 
-👤 **Phillip Musiime**
-
-- LinkedIn: [Phillip Musiime](https://www.linkedin.com/in/phillip-musiime/)
-- GitHub: [PhillipUg](https://github.com/PhillipUg)
-- Twitter: [@Phillip_Ug](https://twitter.com/Phillip_Ug)
-- E-mail: phillipmusiime@gmail.com
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Microverse](https://www.microverse.org/)
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/PhillipUg/calculator-react.svg?style=flat-square
-[contributors-url]: https://github.com/PhillipUg/calculator-react/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/PhillipUg/calculator-react.svg?style=flat-square
-[forks-url]: https://github.com/PhillipUg/calculator-react/network/members
-[stars-shield]: https://img.shields.io/github/stars/PhillipUg/calculator-react.svg?style=flat-square
-[stars-url]: https://github.com/PhillipUg/calculator-react/stargazers
-[issues-shield]: https://img.shields.io/github/issues/PhillipUg/calculator-react.svg?style=flat-square
-[issues-url]: https://github.com/PhillipUg/calculator-react/issues
+
 [product-screenshot]: public/calculator.png
 <!-- [product-screenshot2]: dist/images/page2.png -->
 
 
-## 📝 License
 
-This project is [MIT](https://opensource.org/licenses/MIT) licensed.
