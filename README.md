@@ -22,8 +22,8 @@ A simple Calculator application built with React.
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/PhillipUg/calculator-react">
-    <img src="public/calc.png" alt="Logo" width="150" height="150">
+  <a href="https://github.com/paragnassa/Calculator/blob/main/calculator.png">
+    <img src="https://github.com/paragnassa/Calculator/blob/main/calc.png" alt="Logo" width="150" height="150">
   </a>
 
   <h1 align="center">Calculator App</h1>
