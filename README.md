@@ -79,7 +79,7 @@ To try it live [click here](https://project-calculator-react.herokuapp.com/)
 * [Microverse](https://www.microverse.org/)
 
 
-[product-screenshot]: public/calculator.png<img width="558" alt="calculator" src="https://user-images.githubusercontent.com/78324444/142756872-be85b598-bc79-4c86-b908-5efab60f1a22.png">
+[product-screenshot]: <img width="558" alt="calculator" src="https://user-images.githubusercontent.com/78324444/142756872-be85b598-bc79-4c86-b908-5efab60f1a22.png">
 
 <!-- [product-screenshot2]: <img width="558" alt="calculator" src="https://user-images.githubusercontent.com/78324444/142756882-9b96ca29-cb33-476e-b15e-b83f60c9fe22.png">
 Calculator/blob/main/calculator.png -->
