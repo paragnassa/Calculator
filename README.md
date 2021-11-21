@@ -80,7 +80,7 @@ To try it live [click here](https://project-calculator-react.herokuapp.com/)
 
 ## ScreenShots
 <a href="https://github.com/paragnassa/Calculator/blob/main/calculator.png>
-    <img src="https://github.com/paragnassa/Calculator/blob/main/calculator.png" alt="Logo" width="150" height="150">
+    <img src="https://github.com/paragnassa/Calculator/blob/main/calculator.png" alt="Logo" width="300" height="300">
   </a>
 
 
