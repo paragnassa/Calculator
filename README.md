@@ -82,7 +82,7 @@ To try it live [click here](https://project-calculator-react.herokuapp.com/)
 
 
 [product-screenshot]: public/calculator.png
-<!-- [product-screenshot2]: https://github.com/paragnassa/Calculator/blob/main/calculator.png -->
+<!-- [product-screenshot2]: Calculator/blob/main/calculator.png -->
 
 
 
