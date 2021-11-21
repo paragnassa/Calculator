@@ -30,10 +30,8 @@ A simple Calculator application built with React.
 
   <p align="center">
     <a href="https://project-calculator-react.herokuapp.com/">View Demo</a>
-    ·
-    <a href="https://github.com/paragnassa/Calculator/blob/main/calculator.png">Report Bug</a>
-    ·
-    <a href="https://github.com/paragnassa/Calculator/blob/main/calculator.png">Request Feature</a>
+    
+    
   </p>
 </p>
 
@@ -84,7 +82,7 @@ To try it live [click here](https://project-calculator-react.herokuapp.com/)
 
 
 [product-screenshot]: public/calculator.png
-<!-- [product-screenshot2]: dist/images/page2.png -->
+<!-- [product-screenshot2]: https://github.com/paragnassa/Calculator/blob/main/calculator.png -->
 
 
 
