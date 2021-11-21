@@ -31,9 +31,9 @@ A simple Calculator application built with React.
   <p align="center">
     <a href="https://project-calculator-react.herokuapp.com/">View Demo</a>
     ·
-    <a href="https://github.com/PhillipUg/calculator-react/issues">Report Bug</a>
+    <a href="https://github.com/paragnassa/Calculator/blob/main/calculator.png">Report Bug</a>
     ·
-    <a href="https://github.com/PhillipUg/calculator-react/issues">Request Feature</a>
+    <a href="https://github.com/paragnassa/Calculator/blob/main/calculator.png">Request Feature</a>
   </p>
 </p>
 
@@ -41,12 +41,9 @@ A simple Calculator application built with React.
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [Use Locally](#local-usage)
-  * [Built With](#built-with)
+* [Built With](#built-with)
 * [Live Version](#live-version)
-* [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
-* [License](#license)
 
 <br>
 <br>
