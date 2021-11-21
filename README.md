@@ -78,9 +78,9 @@ To try it live [click here](https://project-calculator-react.herokuapp.com/)
 ## Acknowledgements
 * [Microverse](https://www.microverse.org/)
 
-
-[product-screenshot]: <img width="558" alt="calculator" src="https://user-images.githubusercontent.com/78324444/142756992-795c87b2-0f76-4675-908e-38ec776412cd.png">
-
-
+## ScreenShots
+<a href="https://github.com/paragnassa/Calculator/blob/main/calculator.png>
+    <img src="https://github.com/paragnassa/Calculator/blob/main/calculator.png" alt="Logo" width="150" height="150">
+  </a>
 
 
